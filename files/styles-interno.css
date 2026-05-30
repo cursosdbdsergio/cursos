@@ -174,3 +174,10 @@ input:checked + .switch-track .switch-thumb {
         grid-template-columns: 50px 1fr 60px;
     }
 }
+
+/* FOOTER */
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    color: var(--text-soft);
+}
